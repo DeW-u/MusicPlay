@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicPlay</string>
+    <string name="song_name_default">Song Name</string>
+</resources>
