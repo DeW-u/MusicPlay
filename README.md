@@ -11,6 +11,6 @@ MusicPlay is an offline music player app that searches for audio tracks on your 
 
 App uses an audio visualizer provided by [gauravk95](https://github.com/gauravk95), which you can check out [here](https://github.com/gauravk95/audio-visualizer-android).
 ## Screenshots
-<img src="/screenshots/Screenshot_1.png" width="200px"><img src="/screenshots/Screenshot_2.png" width="200px"><img src="/screenshots/Screenshot_3.png" width="200px">
+<img src="/screenshots/Screenshot_1.png" width="200px">   <img src="/screenshots/Screenshot_2.png" width="200px">   <img src="/screenshots/Screenshot_3.png" width="200px">
 
-<img src="/screenshots/Screenshot_4.png" width="200px"><img src="/screenshots/Screenshot_5.png" width="200px">
+<img src="/screenshots/Screenshot_4.png" width="200px">   <img src="/screenshots/Screenshot_5.png" width="200px">
