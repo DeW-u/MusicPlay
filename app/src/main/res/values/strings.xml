@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MusicPlay</string>
     <string name="song_name_default">Song Name</string>
+    <string name="nothing_is_playing_right_now">Nothing is playing right now...</string>
 </resources>

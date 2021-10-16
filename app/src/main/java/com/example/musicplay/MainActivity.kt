@@ -9,6 +9,7 @@ import android.widget.ArrayAdapter
 import android.widget.BaseAdapter
 import android.widget.ListView
 import android.widget.TextView
+import androidx.fragment.app.FragmentManager
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.musicplay.databinding.ActivityMainBinding
 import com.karumi.dexter.Dexter
@@ -42,6 +43,10 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         findSongsAndDisplay()
+        val fragmentManager = supportFragmentManager
+        val fragmentPlayer = FragmentPlayer()
+
+        fragmentManager.beginTransaction().add(R.id.fragment_container, fragmentPlayer).commit()
     }
 
     //implementation 'com.karumi:dexter:6.2.3'

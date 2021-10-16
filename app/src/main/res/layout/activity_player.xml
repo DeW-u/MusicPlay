@@ -100,7 +100,7 @@
                 android:layout_width="90dp"
                 android:layout_height="90dp"
                 android:layout_centerHorizontal="true"
-                android:background="@drawable/music_player_background"
+                android:background="@color/material_on_surface_stroke"
                 android:src="@drawable/ic_play" />
 
             <ImageButton
